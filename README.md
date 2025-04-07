@@ -5,7 +5,6 @@
 This repository provides two Python-based scrapers to extract data from TechCrunch articles. It includes:
 
 - A listing scraper for fetching articles from multiple pages.
-
 - A detail scraper to extract full content from individual article URLs.
 
 📖 Read the full tutorial: [How to Scrape TechCrunch with Python](https://crawlbase.com/blog/scrape-techcrunch-with-python/)
@@ -93,17 +92,12 @@ Title,Author,Publication Date,Content
 ## 📌 To-Do
 
 - Add CLI support for inputting URLs.
-
 - Add option to save data in JSON.
-
 - Retry logic for failed requests.
-
 - Proxy support for stealth scraping.
 
 ## 💡 Why Scrape TechCrunch?
 
 - Track breaking news in the tech world.
-
 - Monitor coverage of startups or competitors.
-
 - Build datasets for NLP and content analysis.
